@@ -7,5 +7,8 @@ https://qotom.net/faq/32.html<br>
 
 <img width="2542" height="272" alt="1736451587861" src="https://github.com/user-attachments/assets/93e9a0ff-95ff-4a21-b450-031e5ba39e20" />
 https://forums.servethehome.com/index.php?threads/qotom-denverton-fanless-system-with-4-sfp.41331/page-32#post-452840
+
+RAM -- Kingston KF432S20IBK2/64 -- 64GB (2x32GB).
+reference: https://forum.opnsense.org/index.php?topic=41589.0
 <img width="1506" height="653" alt="image" src="https://github.com/user-attachments/assets/d8d825bf-7342-458f-b5ca-9671dafc8432" />,br>
 
